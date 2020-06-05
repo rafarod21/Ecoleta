@@ -89,3 +89,15 @@
 #modal form button:hover {
     background-color: #2FB85E;
 }
+
+#modal.point .content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point h1 {
+    color: #FFF;
+
+    margin-top: 32px;
+}
